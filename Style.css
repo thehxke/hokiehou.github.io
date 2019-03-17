@@ -1,0 +1,127 @@
+body { margin: 0; padding: 0; background-color: black}
+
+
+.cover { background-size: cover; background-repeat: no-repeat;; background-position: center top}
+
+
+a:link{text-decoration: none;}
+a:hover {color: #929292}
+
+html {
+    scroll-behavior: smooth; }
+
+
+.homebar {padding: 19px; font-size: 20px; font-family: Arial ; color: black; bottom: 0px; position: relative; background-color: black}
+
+
+.logo { padding: 20px; font-size: 30px; font-family: callibrush ; color: gainsboro; }
+
+
+.topbar1 { font-size: 22px; font-family: Arial; float: right; margin-right: 40px; color: gainsboro}
+
+
+.homepagetitle {font-size: 45px; text-align: center; font-family: callibrush; color: gainsboro}
+.everyhome1 { text-align: center; font-family: Arial; color:  white;}
+
+
+.category { font-size: 18px; color: gainsboro; font-family: Arial; text-align: center;}
+
+
+.more { font-family: Arial; color: gainsboro}
+
+.photographya1 { padding: 15px}
+
+
+.homecontent {
+    height: 80vh;
+        background-image: url(Best%20Cover%20Mine%20B&W%20for%20HXKE%20WEB.jpg);
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;}
+
+.artwork {
+    height: 80vh;
+        background-image: url(marble.jpg);
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;}
+
+.drawing {
+    height: 80vh;
+        background-image: url(dr.jpg);
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;}
+
+
+.thetime {
+    height: 80vh;
+        background-image: url(clock%201.jpg);
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;}
+
+.relieved {
+    height: 80vh;
+        background-image: url(homeland%201.jpg) ;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;}
+
+.december {
+    height: 80vh;
+        background-image: url(Hour%20Hoky%20-%20Christmas%20Magazine%201.jpg) ;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;}
+
+
+.sr {
+    height: 80vh;
+        background-image: url(SR.jpg) ;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;}
+
+
+
+.somethingcraz {
+    height: 80vh;
+        background-image: url(somethingcraz.jpg) ;
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;}
+
+
+.photography { text-align: center;}
+
+
+
+
+.aboutbackground {
+    height: 1111px;
+        background-image: url(Best%20Cover%20Mine%20B&W.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center; margin-bottom: 200px; background-attachment: fixed;}
+
+
+.contact { text-align: center; height: 340px }
+
+
+
+
+.imgartwork {  width: 400px; height: 400px; padding: 15px}
+.imgartworkhome {  width: 31%;padding: 5px}
+.imgartwork1 {  width: 250px; height: 250px; padding: 15px}
+.imgartworkd {  width: 95%; padding: 20px  }
+.imageartworkfull { width: 70%; padding: 20px}
+.icon {width: 40px; padding: 15px}
